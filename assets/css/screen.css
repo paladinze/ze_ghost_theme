@@ -269,6 +269,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     padding: 10px 12px;
     color: #fff;
     opacity: 0.8;
+    font-size: 15px;
 }
 
 .nav li a:hover {
@@ -1844,7 +1845,7 @@ Usage (In Ghost editor):
 }
 
 .post-template .post-content > p:first-child {
-    font-size: 1.25em;
+    font-size: 18px;
     line-height: 1.5em;
 }
 
